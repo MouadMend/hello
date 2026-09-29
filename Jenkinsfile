@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Affichage') { 
             steps {
-                sh "echo 'Hello BVS'"
+                sh "echo 'Hello MOUAD'"
             }
         }
     }
